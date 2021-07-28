@@ -12,6 +12,7 @@ p{
 }
 section{
     display: flex;
+    margin-bottom: 250px;
 }
 .half-widt{
     width: 50%;
@@ -28,3 +29,47 @@ section{
 .background-img{
     background-image: url(images/male/7.png);
 }
+.img{
+    background-image: url(images/male/7.png);
+}
+.half-widt-exta{
+    width: 400px;
+   margin-left: 1000px;
+}
+.margin{
+    margin-bottom: 120px;
+}
+.text-center{
+    width: 900px;
+    margin-left: 230PX;
+
+}
+.text-madil{
+    margin-left: 400px;
+    font-size: 50px;
+}
+.box{
+    width: 63%;
+}
+.big{
+    font-size: 25px;
+}
+.short{
+    font-size: 20px;
+    width: 50%;
+    box-shadow: 10px 10px 40px gtay;
+}
+.sado{
+   
+}
+.coloring{
+    background-color: black;
+    color: wheat;
+   height: 200px;
+}
+.rong{
+color: tomato;
+}
+
+
+
